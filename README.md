@@ -2,7 +2,7 @@
 
 ## 💻 Full-Stack Developer | Problem Solver
 
-Hi! I'm a **Full-Stack Developer** with **8 months of experience** in building web applications. I love solving problems and working with modern web technologies to create efficient, scalable, and user-friendly applications.
+Hi! I'm a **Full-Stack Developer** with **1.3 year of experience** in building web applications. I love solving problems and working with modern web technologies to create efficient, scalable, and user-friendly applications.
 
 ### 🚀 Tech Stack
 
